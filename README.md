@@ -5,7 +5,7 @@
 Este projeto visa desenvolver um **sistema de recomendação de notícias** baseado no histórico de consumo de usuários em um site de notícias. O objetivo é identificar padrões de leitura e prever as notícias que têm maior probabilidade de serem acessadas a seguir, utilizando técnicas de **análise de dados**, **machine learning** e **APIs**.
 
 ### Tecnologias Utilizadas
-- **Python 3.9
+- **Python 3.9**
 - **Pandas**: Manipulação e análise de dados.
 - **Scikit-learn**: Algoritmos de Machine Learning.
 - **Surprise**: Biblioteca para recomendação.
